@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "72023604804",
+    "firebase_url": "https://taskmanagementapp-2d211-default-rtdb.firebaseio.com",
+    "project_id": "taskmanagementapp-2d211",
+    "storage_bucket": "taskmanagementapp-2d211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72023604804:android:8acafa2a2f670e9ddc8611",
+        "android_client_info": {
+          "package_name": "com.example.taskmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72023604804-n9n4s649j9r3d4pcdsa0m3a7o9gfeuge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbEs3g6FGChqPVqEGXpUOkoP9IGZW2rTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72023604804-n9n4s649j9r3d4pcdsa0m3a7o9gfeuge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72023604804:android:fc7c13b4cc3a5e93dc8611",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72023604804-n9n4s649j9r3d4pcdsa0m3a7o9gfeuge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbEs3g6FGChqPVqEGXpUOkoP9IGZW2rTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72023604804-n9n4s649j9r3d4pcdsa0m3a7o9gfeuge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
